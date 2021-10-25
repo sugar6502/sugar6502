@@ -1,7 +1,7 @@
 Hey, I’m Ngoc Duy !!!
 - I'm studying Computer Science at University of Imformation Technology in Viet Nam.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 🌱 I’m passionate about Machine Learning and Game. So I'm learning it by myself.
+
 
 <!---
 sugar6502/sugar6502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

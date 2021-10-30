@@ -1,6 +1,6 @@
 Hey, I’m Ngoc Duy !!!
 - I'm studying Computer Science at University of Imformation Technology in Viet Nam.
-- I’m passionate about Machine Learning and Game, so I'm learning it by myself.
+- I’m passionate about Machine Learning (Reinforcement Learning) and Game , so I'm learning it by myself.
 
 
 <!---
